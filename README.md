@@ -7,5 +7,6 @@
 
 <div align ="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Thiago-Marquet&show_icons=true&theme=aura&layout=compact"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Marquet&show_icons=true&theme=aura" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Marquet&show_icons=true&theme=aura" height = "143px;"/>
 </div>  
+
