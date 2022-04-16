@@ -13,8 +13,8 @@
   </div>
 
 <div align ="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Thiago-Marquet&show_icons=true&theme=aura&layout=compact"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Marquet&show_icons=true&theme=aura" height = "140px"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=thiago-marquet&show_icons=true&theme=aura&layout=compact"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-marquet&show_icons=true&theme=aura" height = "140px"/>
    <br>
   </div>  
 
@@ -26,4 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height = "35px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height = "35px" />
   </div>
-
+  
+<div align = "center">
+ <img src="https://github.com/thiago-marquet/thiago-marquet/blob/output/github-contribution-grid-snake.svg"/>
+  </div>
