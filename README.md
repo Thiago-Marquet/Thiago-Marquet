@@ -12,10 +12,10 @@
 <h3> Hello, World! </h3>
   </div>
 
-<div align ="justify">
+<div align ="left">
   <img src = "https://github-readme-stats.vercel.app/api?username=thiago-marquet&show_icons=true&theme=aura&layout=compact"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-marquet&show_icons=true&theme=aura" height = "140px"/>
   </div>  
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-marquet&show_icons=true&theme=aura" height = "140px"/>
 
 
 
