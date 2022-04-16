@@ -1,9 +1,4 @@
-
-
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Marquet&show_icons=true&theme=aura&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Marquet&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
--->
+<h1></h1>
 <div align = "center">
   <h1> THIAGO MARQUET </h1>
   </div>
@@ -13,8 +8,8 @@
   </div>
 
 <div align ="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=thiago-marquet&show_icons=true&theme=aura&layout=compact" height = "208px"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-marquet&show_icons=true&theme=aura" height = "150px"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=ff80bf&title_color=8aff80&layout=compact&bg_color=403770" height = "208px"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=ff80bf&title_color=8aff80&layout=compact&bg_color=403770" height = "150px"/>
   </div>
 <h2></h2>
 
