@@ -1,15 +1,15 @@
 <h1></h1>
 <div align = "center">
-  <h1> THIAGO MARQUET </h1>
+  <img src = "https://media.giphy.com/media/A4zCpF4WFe569ULDEv/giphy.gif" height = "320x" width = "900px"/>
   </div>
-  
+
  <div align = "center">
 <h3> Hello, World! </h3>
   </div>
 
 <div align ="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=ff80bf&title_color=8aff80&layout=compact&bg_color=403770" height = "208px"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=ff80bf&title_color=8aff80&layout=compact&bg_color=403770" height = "150px"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59" height = "208px"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59" height = "150px"/>
   </div>
 <h2></h2>
 
