@@ -1,6 +1,6 @@
 <h1></h1>
 <div align = "center">
-  <img src = "https://user-images.githubusercontent.com/102668610/163696088-9e09b6a6-fbd1-4fd2-b2a4-14c092045889.png" height = "320x" width = "900px"/>
+  <img src = "https://user-images.githubusercontent.com/102668610/163696088-9e09b6a6-fbd1-4fd2-b2a4-14c092045889.png"/>
   </div>
 
 
