@@ -1,6 +1,6 @@
 <h1></h1>
 <div align = "center">
-  <img src = "https://media.giphy.com/media/A4zCpF4WFe569ULDEv/giphy.gif" height = "320x" width = "900px"/>
+  <img src = "https://i.ibb.co/8m2zhLf/Git-Banner-Anim0000.jpg" height = "320x" width = "900px"/>
   </div>
 
  <div align = "center">
