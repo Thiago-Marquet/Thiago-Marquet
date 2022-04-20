@@ -3,9 +3,6 @@
   <img src = "https://user-images.githubusercontent.com/102668610/163696088-9e09b6a6-fbd1-4fd2-b2a4-14c092045889.png"/>
   </div>
 
- <div align = "center">
-<h7> Hello, World! </h7>
-  </div>
 
 <div align ="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59" height = "208px"/>
