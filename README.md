@@ -5,7 +5,7 @@
 
 
 <div align ="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59" height = "208px"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59" height = "150px"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-marquet&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59" height = "150px"/>
   </div>
 
